@@ -1,52 +1,50 @@
 
 # hey, I'm Azizbek — aka **Vazulies**
 
-### founder energy. builder mode. psychology on the side.
+**founder energy.** building in public. locked in since May.
 
-CEO / Founder · CTO · CFO of **Vazulies**  
-Also: DevOps, systems, and whatever else needs shipping.
-
-I build products, break bad habits, and study how people actually think — then apply it in real conversations and real code.
+CEO / Founder · CTO · CFO · DevOps of **Vazulies**  
+psychology nerd · productivity maximalist · ships when it matters
 
 ---
 
-### what I'm about
-- **Shipping** > talking
-- **Energy & productivity** systems that don't collapse by Wednesday
-- **Psychology** as a practical tool, not a vibe
-- Clean architecture, fast feedback loops, zero fluff
-
----
+### what I do
+- build products end-to-end (idea → infra → ship)
+- obsess over systems, energy, and clean execution
+- apply psych insights to how people think & work
+- keep the stack simple and the output loud
 
 ### stack & focus
-`TypeScript` · `Python` · `Go` · `DevOps` · `Systems` · `Product`
-
-Currently locked in on:
-- building **Vazulies**
-- self-improvement loops that actually stick
-- turning insights into leverage
+`TypeScript` · `Python` · `DevOps` · systems design · self-improvement loops
 
 ---
 
-### find me
+### github pulse
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vazulies&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vazulies GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vazulies&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vazulies&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### timeline
+- **May → now** — coding every week, no days off the mission
+- building **Vazulies** from zero
+- learning in public, shipping in private when needed
+
+---
+
+### connect
 - GitHub: [Vazulies](https://github.com/Vazulies)
 - Twitter / X: [@ProbablyAPerson](https://twitter.com/ProbablyAPerson)
 
 ---
 
-### stats
+*"people's thinking is mostly noise. filter hard. build louder."*
 
-![Vazulies's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vazulies&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vazulies&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vazulies&theme=tokyonight&hide_border=true)
-
----
-
-### note to self
-> people's thinking is often pathetic — don't inherit it. build clearer systems instead.
-
----
-
-*building in public · learning in private · shipping either way*
+⭐ star what hits · fork what you want to break · dm if you're building too
