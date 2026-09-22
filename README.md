@@ -43,8 +43,8 @@ filter hard. ship faster. protect your energy.
 ---
 
 ### stats
-![GitHub streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=Vazulies&theme=dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vazulies&layout=compact&theme=dark&hide_border=true)
 
 ---
 
