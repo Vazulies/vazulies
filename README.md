@@ -1,57 +1,52 @@
 
-# hey, I'm Azizbek ⚡
+# hey, I'm Azizbek — aka **Vazulies**
 
-**Founder / CEO · CTO · CFO · DevOps** at **[Vazulies](https://github.com)**  
-building systems, shipping product, and staying locked in on energy + productivity.
+### founder energy. builder mode. psychology on the side.
 
-> psychology student of life · self-improvement enjoyer · early mornings hit different (Bamdad / Fajr)
+CEO / Founder · CTO · CFO of **Vazulies**  
+Also: DevOps, systems, and whatever else needs shipping.
+
+I build products, break bad habits, and study how people actually think — then apply it in real conversations and real code.
 
 ---
 
 ### what I'm about
-- 🧠 **Psychology + systems** — how people think, how teams move, how products scale
-- ⚙️ **Full-stack founder mode** — product, code, infra, money, ops
-- 🔋 **Energy & focus** — output over noise
-- 🚀 **Vazulies** — building in public, learning in public
+- **Shipping** > talking
+- **Energy & productivity** systems that don't collapse by Wednesday
+- **Psychology** as a practical tool, not a vibe
+- Clean architecture, fast feedback loops, zero fluff
 
 ---
 
-### currently
-- running **Vazulies** end-to-end
-- deep in **self-improvement**, psychology, and high-agency habits
-- writing / shipping / iterating
+### stack & focus
+`TypeScript` · `Python` · `Go` · `DevOps` · `Systems` · `Product`
 
----
-
-### stack vibe
-`systems` · `devops` · `product` · `automation` · `clean architecture` · whatever gets it shipped
+Currently locked in on:
+- building **Vazulies**
+- self-improvement loops that actually stick
+- turning insights into leverage
 
 ---
 
 ### find me
-- 📧 Email → **vazulies@gmail.com**
-- 💼 building → **Vazulies**
-
----
-
-### mindset
-```text
-people's thinking is often noise.
-filter hard. ship faster. protect your energy.
-```
+- GitHub: [Vazulies](https://github.com/Vazulies)
+- Twitter / X: [@ProbablyAPerson](https://twitter.com/ProbablyAPerson)
 
 ---
 
 ### stats
-![GitHub streak](https://streak-stats.demolab.com?user=Vazulies&theme=dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vazulies&layout=compact&theme=dark&hide_border=true)
+
+![Vazulies's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vazulies&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vazulies&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vazulies&theme=tokyonight&hide_border=true)
 
 ---
 
-<div align="center">
+### note to self
+> people's thinking is often pathetic — don't inherit it. build clearer systems instead.
 
-**build. learn. repeat.**
+---
 
-*Azizbek Eshimov*
-
-</div>
+*building in public · learning in private · shipping either way*
