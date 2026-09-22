@@ -41,10 +41,10 @@ psychology nerd · productivity maximalist · ships when it matters
 
 ### connect
 - GitHub: [Vazulies](https://github.com/Vazulies)
-- Twitter / X: [@ProbablyAPerson](https://twitter.com/ProbablyAPerson)
+- Telegram: [Persona](https://t.me/ownerofanthropic)
 
 ---
 
-*"people's thinking is mostly noise. filter hard. build louder."*
+*"People are just so pathetic."*
 
 ⭐ star what hits · fork what you want to break · dm if you're building too
