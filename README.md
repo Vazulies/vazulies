@@ -43,4 +43,4 @@ psychology nerd · productivity maximalist · ships when it matters
 
 *"People are just so pathetic."*
 
-⭐ star what hits · fork what you want to break · dm if you're building too
+Fork my work, oh i forgot i don't code in public :)
